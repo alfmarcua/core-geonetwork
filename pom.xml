@@ -1083,9 +1083,9 @@
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
-      <id>boundless</id>
-      <name>Boundless repository</name>
-      <url>http://repo.boundlessgeo.com/main/</url>
+      <id>osgeo-release</id>
+      <name>OSGeo Repository</name>
+      <url>https://repo.osgeo.org/repository/release/</url>
     </repository>
      <repository>
       <snapshots>
